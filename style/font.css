@@ -1,0 +1,24 @@
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('../font/ROBOTO/Roboto-Regular.ttf');
+}
+/* ROBOTO end */
+
+@font-face {
+	font-family: 'SystemSanFranciscoTextRegular';
+	src: url('../font/SanFrancisco/SystemSanFranciscoTextRegular.ttf');
+}
+
+/* SanFrancisco end */
+@font-face {
+	font-family: 'SourceHanSansCN-Regular_0';
+	src: url('../font/SourceSansPro（思源雅黑）/SourceHanSansCN-Regular_0.otf');
+}
+/* SourceSansPro（思源雅黑） end */
+
+@font-face {
+	font-family: 'PingFangRegular';
+	src: url('../font/苹方/PingFangRegular.ttf');
+}
+/* 苹方 end */

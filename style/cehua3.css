@@ -1,0 +1,255 @@
+* {
+	margin: 0; 
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#bigBox {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: rgb(244, 244, 244);
+}
+#video {
+	position: relative;
+	width: 100%;
+	/*height: 704px;*/
+	height: 675px;
+	background-color: white;
+
+}
+video {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#content .date {
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 177px; 
+	font-size: 14px;
+	color: rgb(0,0,0);
+	filter:alpha(opacity=50);  
+	-moz-opacity:0.5;  
+	opacity: 0.5;  
+}
+#content #header {
+	margin-top: 38px;
+	margin-left: 177px;
+}
+#content #header h1{
+	margin-top: 18px;
+	font-size: 34px;
+}
+#content #leftSmall {
+	display: block;
+	margin-top: 18px;
+	font-size: 18px;
+	filter:alpha(opacity=70);  
+	-moz-opacity:0.7;  
+	opacity: 0.7; 
+}
+#content .biaoqian_1 {
+	display: inline-block;
+	margin-top: 23px;
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	background-color:rgb(251,226,176);
+	border-radius: 10px;
+	color: rgb(173, 172, 182);
+	margin-left: 5px;
+	font-size: 15px;
+}
+#content .biaoqian_2 {
+	display: inline-block;
+	margin-top: 23px;
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	background-color:rgb(238,237,237);
+	border-radius: 10px;
+	color: rgb(173, 172, 182);
+	margin-left: 5px;
+	font-size: 15px;
+}
+
+#content .section1{
+	margin-top: 46px;
+	margin-left: 177px;
+	color: rgb(135,134,143);
+	font-size: 16px;
+	line-height: 26px;
+}
+#content .section1 .section1_span{
+	color: rgb(0,0,0);
+}
+/* section1 end */
+#content .p1{
+	margin-top: 57px;
+	margin-left: 177px;
+	color: rgb(135,134,143);
+	font-size: 16px;
+	line-height: 26px;
+}
+#content .p2{
+	margin-top: 60px;
+	margin-left: 525px;
+	color: rgb(135,134,143);
+	font-size: 18px;
+	line-height: 26px;
+}
+#content .small{
+	margin-top: 14px;
+	margin-left: 336px;
+	color: rgb(135,134,143);
+	font-size: 16px;
+	line-height: 26px;
+}
+/**/
+#content .section2{
+	margin-top: 53px;
+	margin-left: 111px;
+}
+#content .section2 #chengguo{
+	margin-top: 18px;
+	margin-left: 65px;
+	font-size: 18px;
+}
+#content .section2 #chengguo .cg_p1{
+	margin-top: 17px;
+	font-size: 16px;
+	color: rgb(135,134,143);
+	line-height: 26px;
+}
+/* section2 end */
+#content .jiesao_1{
+	margin-top: 59px;
+	margin-left: 111px;
+}
+#content .jiesao_1 .js1_p1{
+	margin-top: 31px;
+	font-size: 14px;
+	color: rgb(135,134,143);
+}
+#content .jiesao_1 .js1_p2{
+	margin-top: 58px;
+	margin-left: 66px;
+	font-size: 16px;
+	color: rgb(135,134,143);
+	line-height: 26px;
+}
+/* jiesao1 end */
+
+#content .jiesao_2{
+	margin-top: 59px;
+	margin-left: 111px;
+	color: rgb(135,134,143);
+}
+#content .jiesao_2 .js2_p1{
+	margin-top: 32px;
+	font-size: 14px;
+}
+#content .jiesao_2 .js2_p2{
+	margin-top: 15px;
+	font-size: 14px;
+}
+#content .jiesao_2 .js2_p3{
+	margin-top: 54px;
+	margin-left: 75px;
+	font-size: 18px;
+}
+#content .jiesao_2 .js2_p4{
+	margin-top: 9px;
+	margin-left: 66px;
+	font-size: 16px;
+	line-height: 26px;
+}
+#content .jiesao_2 .js2_p5{
+	margin-top: 27px;
+	margin-left: 75px;
+	font-size: 18px;
+}
+#content .jiesao_2 .js2_p6{
+	margin-top: 9px;
+	margin-left: 66px;
+	font-size: 16px;
+}
+/* jiesao2 end*/
+
+#content .jiesao_3{
+	margin-top: 59px;
+	margin-left: 111px;
+	color: rgb(135,134,143);
+}
+
+#content .jiesao_3 .js3_p1{
+	margin-top: 32px;
+	font-size: 14px;
+}
+#content .jiesao_3 .js3_p2{
+	margin-top: 60px;
+	margin-left: 66px;
+	line-height: 26px;
+	font-size: 18px;
+}
+#content .jiesao_3 .js3_p3{
+	margin-left: 66px;
+	line-height: 26px;
+	font-size: 16px;
+}
+/* jiesao3 end */
+#content .jiesao_4{
+	margin-top: 60px;
+	margin-left: 111px;
+	color: rgb(135,134,143);
+}
+#content .jiesao_4 .js4_p1{
+	margin-top: 30px;
+	font-size: 14px;
+}
+#content .jiesao_4 .js4_p2{
+	margin-top: 58px;
+	margin-left: 66px;
+	font-size: 18px;
+	line-height: 26px;
+}
+#content .jiesao_4 .js4_p3{
+	margin-left: 66px;
+	font-size: 16px;
+	line-height: 26px;
+}
+/* jiesao4 end */
+#content #fourth{
+	margin-top: 78px;
+	color: rgb(135,134,143);
+}
+#content #fourth .fth_p1{
+	margin-left: 519px;
+	font-size: 22px;
+}
+#content #fourth .fth_p2{
+	margin-top: 44px;
+	margin-left: 177px;
+	font-size: 20px;
+}
+#content #fourth .fth_p3{
+	margin-top: 25px;
+	margin-left: 177px;
+	font-size: 18px;
+	line-height: 26px;
+}
+figure{
+	margin-top: 48px;
+	margin-left: 111px;
+}

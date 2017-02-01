@@ -1,0 +1,85 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,
+input,button,textarea,p,blockquote,th,td { margin:0; padding:0; }
+ul {
+	list-style: none;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#bigBox {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+/* header end*/
+
+
+/*
+section #zhuanti {
+	display: block;
+	width: 976px;
+	margin-left: 54px;
+}
+*/
+#zhuanti {
+	width: 100%;
+	margin-top: 19px;
+}
+#zhuanti li img {
+	width: 288px;
+	height: 191px;
+	cursor: pointer;
+	transition: .4s;
+}
+#zhuanti li img:hover {
+	transform: scale(1.1);
+}
+#zhuanti  a:hover p {
+	color: blue;
+}
+#zhuanti li {
+	/*float: left;*/
+	display: inline-block;
+	width: 288px;
+	height: 230px;
+	margin-left: 56px;
+	vertical-align: middle;
+	text-align: center;
+}
+#zhuanti h3 {
+	font-size: 16px;
+	margin-top: 15px;
+}
+#zhuanti p {
+	font-size: 12px;
+	margin-top: 19px;
+}
+#zhuanti a {
+	text-decoration: none;
+	color: black;
+}
+
+#zhuanti li:nth-child(4) {
+	margin-top: 56px;
+	
+}
+#zhuanti .zt_date{
+	color: rgb(0,0,0);
+	filter:alpha(opacity=45);  
+	-moz-opacity:0.45;  
+	opacity: 0.45;  
+}
+
+footer {
+	float: left;
+}
+
+.bg {
+	float: left;
+	margin-top: 74px;
+	width: 100%;
+	background-color: rgb(244, 244, 244);
+}

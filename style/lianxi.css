@@ -1,0 +1,60 @@
+* {
+	margin: 0; 
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#bigBox {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/* header end */
+
+
+#hezuo {
+	width: 100%;
+	text-align: center;	
+}
+#hezuo div:nth-child(1) {
+	
+	font-weight: bold;
+	margin-top: 18px;
+}
+#hezuo div:nth-child(2) {
+
+	margin-top: 36px;
+}
+#hezuo div:nth-child(3) {
+	
+	margin-top: 22px;
+}
+#hezuo div:nth-child(3) span {
+	font-weight: bolder;
+	
+}
+
+#tupian {
+	width: 100%;
+	text-align: center;
+	margin-top: 124px;
+}
+
+
+#top {
+	margin-left: 109px;
+	margin-top: 296px;
+}
+
+.bg {
+	margin-top: 74px;
+	height: 100%;
+	background-color: rgb(244, 244, 244);
+}

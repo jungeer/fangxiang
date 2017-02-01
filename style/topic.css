@@ -1,0 +1,15 @@
+#topic {
+	display: block;
+	width: 100%;
+	height: ;
+	text-align: center;
+	margin-top: 62px;
+}
+#topic p {
+	font-size: 43px;
+}
+#topic span {
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 16px;
+}

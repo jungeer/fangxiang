@@ -1,0 +1,129 @@
+* {
+	margin: 0; 
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#bigBox {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/* header end */
+
+
+#tupian {
+	width: 100%;
+	text-align: center;
+}
+#tupian img {
+	margin-top: 19px;
+}
+
+#jiesao {
+	width: 1092px;
+	height: 299px;
+	border: 2px solid black;
+	margin-top: 40px;
+	margin-left: 56px;
+	text-align: center;
+	font-weight: bold;
+	line-height: 1.5;
+	font-size: 18px;
+}
+#jiesao h2 {
+	margin-top: 50px;
+}
+#jiesao p {
+	margin-top: 59px;
+}
+#tuandui1 {
+	margin-top: 133px;
+	margin-left: 114px;
+}
+
+#tuandui1 dl {
+	display: inline-block;
+	margin-left: 20px;
+}
+.tuandui1 dl {
+	display: inline-block;
+	margin-left: 20px;
+}
+#hr {
+	margin-left: 112px;
+	margin-top: 52px;
+	width: 116px;
+	height: 36px;
+	line-height: 36px;
+	border-top: 2px solid black;
+}
+.tuandui1 {
+	display: inline-block;
+}
+#tuandui {
+	margin-top: 41px;
+}
+#tuandui aside:nth-child(1) {
+	margin-left: 114px;
+}
+#tuandui aside:nth-child(2) {
+	margin-left: 114px;
+}
+#tuandui aside:nth-child(3) {
+	margin-top: 75px;
+	margin-left: 114px;
+}
+#tuandui aside:nth-child(4) {
+	margin-top: 75px;
+	margin-left: 162px;
+}
+#hr2 {
+	margin-left: 112px;
+	margin-top: 150px;
+	width: 166px;
+	height: 36px;
+	line-height: 36px;
+	border-top: 2px solid black;
+}
+
+#logo {
+	width: 100%;
+	margin-top: 52px;
+	margin-left: 114px;
+}
+#logo ul li {
+	display: inline-block;
+}
+
+#logo ul li:nth-child(2) {
+	margin-left: 40px;
+}
+#logo ul li:nth-child(3) {
+	margin-left: 40px;
+}
+#logo ul li:nth-child(4) {
+	margin-left: 30px;
+}
+#logo ul li:nth-child(5) {
+	margin-left: 20px;
+	
+}
+
+#top {
+	margin-top: 259px;
+	margin-left: 108px;
+}
+
+.bg {
+	height: 100%;
+	margin-top: 74px;
+	background-color: rgb(244, 244, 244);
+}
